@@ -1,7 +1,6 @@
-[![Docker Stars](https://img.shields.io/docker/stars/bluesboy/semver.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/bluesboy/semver/stars/count/)
-[![Docker pulls](https://img.shields.io/docker/pulls/bluesboy/semver.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/bluesboy/semver)
-[![Docker build status](https://img.shields.io/docker/build/bluesboy/semver.svg)](https://github.com/bluesboy/semver)
-[![Docker Automated Build](https://img.shields.io/docker/automated/bluesboy/semver.svg)](https://github.com/bluesboy/helm)
+[![Docker Pulls](https://img.shields.io/docker/pulls/bluesboy/semver?style=flat-square)](https://hub.docker.com/r/bluesboy/semver)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/bluesboy/semver?style=flat-square)](https://github.com/bluesboy/semver)
+[![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/bluesboy/semver?style=flat-square)](https://github.com/bluesboy/semver)
 
 ## SemVer Docker Image
 
